@@ -11,7 +11,8 @@ class ProjectsController < ApplicationController
       redirect_to @project
       p params
     else
-      # nothing, yet
+      flash[:alert] = "Project has not been created."
+      render :action => "new"
     end
   end
   def show
