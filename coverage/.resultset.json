@@ -1,6 +1,19 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/nathalie/Github/codefellows/cf_ticketee/app/models/user.rb": [
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
       "/Users/nathalie/Github/codefellows/cf_ticketee/app/controllers/application_controller.rb": [
         1,
         1,
@@ -30,7 +43,7 @@
         1,
         null,
         1,
-        15,
+        17,
         null,
         1,
         2,
@@ -148,6 +161,6 @@
 
       ]
     },
-    "timestamp": 1373949582
+    "timestamp": 1374015492
   }
 }

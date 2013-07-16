@@ -40,6 +40,7 @@ gem 'jquery-rails'
 
 group :test, :development do
   gem 'rspec-rails', '~> 2.11'
+	gem 'pry-rails' #REPL - read evaluate print loop
 end
 
 group :test do
@@ -47,4 +48,6 @@ group :test do
   gem 'factory_girl', '2.6.4'
 	gem 'simplecov', :require => false, :group => :test
 end
+
+gem 'devise', '2.1.0'
 

@@ -8,6 +8,7 @@ feature 'Deleting tickets' do
     click_link ticket.title
 	end
   scenario "Deleting a ticket" do
+		#binding.pry
     click_link "Delete Ticket"
     page.should have_content("Ticket has been deleted.")
     page.current_url.should == project_url(project)
