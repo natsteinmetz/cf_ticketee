@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/models/user.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/models/user.rb": [
         1,
         null,
         null,
@@ -14,12 +14,12 @@
         null,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/controllers/application_controller.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/helpers/application_helper.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/helpers/application_helper.rb": [
         1,
         1,
         14,
@@ -30,15 +30,15 @@
         null,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/helpers/projects_helper.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/helpers/projects_helper.rb": [
         1,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/helpers/tickets_helper.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/helpers/tickets_helper.rb": [
         1,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/controllers/projects_controller.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/controllers/projects_controller.rb": [
         1,
         1,
         null,
@@ -91,7 +91,7 @@
         null,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/models/project.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/models/project.rb": [
         1,
         1,
         null,
@@ -101,7 +101,7 @@
         null,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/controllers/tickets_controller.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/controllers/tickets_controller.rb": [
         1,
         1,
         1,
@@ -146,7 +146,7 @@
         null,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/models/ticket.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/models/ticket.rb": [
         1,
         1,
         1,
@@ -157,10 +157,10 @@
         null,
         null
       ],
-      "/Users/nathalie/Github/codefellows/cf_ticketee/app/models/ability.rb": [
+      "/Users/nathalie/Github/cf_ticketee/app/models/ability.rb": [
 
       ]
     },
-    "timestamp": 1374015492
+    "timestamp": 1374090780
   }
 }
