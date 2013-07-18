@@ -11,6 +11,9 @@
         null,
         null,
         1,
+        1,
+        1,
+        7,
         null,
         null
       ],
@@ -21,8 +24,8 @@
         1,
         null,
         1,
-        24,
-        24,
+        29,
+        29,
         6,
         6,
         null,
@@ -33,7 +36,7 @@
       "/Users/nathalie/Github/cf_ticketee/app/helpers/application_helper.rb": [
         1,
         1,
-        125,
+        133,
         null,
         1,
         18,
@@ -68,16 +71,16 @@
       "/Users/nathalie/Github/cf_ticketee/app/controllers/admin/users_controller.rb": [
         1,
         1,
+        5,
+        null,
+        1,
         3,
         null,
         1,
+        3,
+        3,
         2,
-        null,
-        1,
         2,
-        2,
-        1,
-        1,
         null,
         1,
         1,
@@ -91,7 +94,7 @@
         1,
         null,
         1,
-        39,
+        41,
         null,
         1,
         2,
@@ -212,6 +215,6 @@
 
       ]
     },
-    "timestamp": 1374171482
+    "timestamp": 1374179601
   }
 }
