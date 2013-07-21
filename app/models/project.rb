@@ -3,6 +3,10 @@ class Project < ActiveRecord::Base
   
   validates :name, :presence => true, :uniqueness => true
 
+	def self.for(user)
+		user.admin? ? Project : Project.viewable_by(user)
+	end
+
 	has_many :permissions, :as => :thing
 	def self.viewable_by(user)
 		joins(:permissions).where(:permissions => { :action => "view",

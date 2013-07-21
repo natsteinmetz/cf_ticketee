@@ -36,7 +36,7 @@
       "/Users/nathalie/Github/cf_ticketee/app/helpers/application_helper.rb": [
         1,
         1,
-        195,
+        191,
         null,
         1,
         14,
@@ -130,7 +130,7 @@
         1,
         null,
         1,
-        58,
+        54,
         null,
         1,
         2,
@@ -170,10 +170,6 @@
         1,
         1,
         23,
-        10,
-        null,
-        13,
-        null,
         null,
         4,
         4,
@@ -188,8 +184,12 @@
         1,
         null,
         1,
+        77,
+        null,
+        null,
         1,
-        13,
+        1,
+        37,
         null,
         null,
         null,
@@ -267,6 +267,6 @@
         null
       ]
     },
-    "timestamp": 1374280672
+    "timestamp": 1374389838
   }
 }
