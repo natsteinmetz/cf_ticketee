@@ -13,3 +13,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Coffee script source maps related
+public/source_maps
+public/assets/source_maps
