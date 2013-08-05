@@ -276,6 +276,7 @@
         1,
         1,
         5,
+        20,
         null,
         1,
         5,
@@ -342,6 +343,7 @@
         1,
         1,
         1,
+        1,
         null,
         1,
         null,
@@ -373,8 +375,14 @@
         null,
         null,
         null
+      ],
+      "/Users/nathalie/Github/cf_ticketee/app/models/asset.rb": [
+        1,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1375730601
+    "timestamp": 1375732821
   }
 }
