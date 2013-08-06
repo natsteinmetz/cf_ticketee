@@ -10,6 +10,8 @@ require 'rspec/autorun'
 # in spec/support/ and its subdirectories.
 Dir[Rails.root.join("spec/support/**/*.rb")].each { |f| require f }
 
+Capybara.javascript_driver = :webkit
+
 RSpec.configure do |config|
 	config.before do
 		ActionMailer::Base.deliveries.clear
